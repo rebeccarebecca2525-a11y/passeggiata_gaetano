@@ -1,0 +1,322 @@
+﻿{
+  "itinerari": [
+    {
+      "id": "rino_gaetano_cantanti",
+      "nome": "Rino Gaetano: la Mappa del Cielo Blu",
+      "sottotitolo": "Un viaggio tra ironia, ballate e quartieri popolari",
+      "personaggio": {
+        "nome": "Rino Gaetano",
+        "anni": "1950-1981",
+        "professione": "Cantautore",
+        "nazionalita": "Italiana",
+        "biografia_breve": "Cantautore calabrese trasferitosi a Roma da bambino, Rino Gaetano ha segnato la musica italiana con il suo stile graffiante, ironico e profondamente d'avanguardia. Attraverso i suoi testi apparentemente leggeri, ha saputo dipingere la società italiana degli anni '70 e e i contrasti della capitale, legando indissolubilmente la sua storia ai quartieri di Montesacro e del Nomentano.",
+        "immagine": "https://images.rockol.it/aABH33fTnT1MwkAIooBF2daVYmA=/645x482/smart/rockol-img/img/foto/upload/rino-gaetano-b.jpg",
+        "opere_correlate": [
+          "Ma il cielo è sempre più blu (1975)",
+          "Mio fratello è figlio unico (1976)",
+          "Gianna (1978)"
+        ]
+      },
+      "tema": "Musica d'Autore - Cantautorato Italiano",
+      "categoria": "Musica e Società",
+      "durata_totale_ore": 6,
+      "difficolta": "facile",
+      "immagine_copertina": "https://media.gqitalia.it/photos/60b6b98353bb9bc6574d52c2/16:9/w_2560%2Cc_limit/GettyImages-946118602.jpg",
+      "distanza_totale_km": 4.9,
+      "periodo_consigliato": "Primavera/Autunno (temperature miti)",
+      "stagione_migliore": ["marzo", "aprile", "maggio", "settembre", "ottobre"],
+      "descrizione": "Una passeggiata nei luoghi dell'anima di Rino Gaetano. Dalla Montesacro che lo ha adottato e che faceva da sfondo alla sua giovinezza, passando per le strade testimoni del suo quotidiano e della sua tragica scomparsa, fino al luogo dove riposa la sua genialità. Un percorso poetico e nostalgico a ritmo di ciliegie e ironia.",
+      "note_logistiche": "La passeggiata inizia al mattino, prevede una pausa pranzo presso Piazza Sempione (11:30-12:30) e si conclude nel pomeriggio. Munirsi di acqua, scarpe comode e cuffie per il telefono.",
+      "accessibilita": "Il percorso si snoda lungo l'asse di Via Nomentana ed è consigliabile muoversi a piedi per tutte le tappe.",
+      "costo_stimato": "Gratuito",
+      "tappe": [
+        {
+          "numero": 1,
+          "poi_id": "piazza_sempione",
+          "orario_consigliato": "10:00",
+          "momento_giornata": "mattino",
+          "durata_visita_min": 90,
+          "coordinate": [41.93571, 12.5353],
+          "nome": "Piazza Sempione",
+          "descrizione_breve": "Nel cuore pulsante di Montesacro, questa piazza monumentale accoglie la memoria giovanile di Rino con un'atmosfera di quartiere.",
+          "indicazioni_arrivo": "Bus 60 o 90 dal centro (Stazione Termini) fino alla fermata Piazza Sempione. In alternativa Metro B1 fermata Conca d'Oro e 10 minuti a piedi.",
+          "esperienza_culturale": {
+            "musica": {
+              "brano_completo": "Mio fratello è figlio unico",
+              "compositore": "Rino Gaetano",
+              "durata_sec": 198,
+              "tonalita": "Do maggiore",
+              "organico": "Voce, chitarra acustica, pianoforte, ukulele",
+              "anno_composizione": 1976,
+              "descrizione_musicale": "Il brano si apre con un arpeggio di chitarra malinconico ma ritmato, sorretto dalla voce graffiante di Rino. L'uso dell'ukulele dona una nota di ironica e straniante solitudine. È l'inno degli esclusi, di chi vive ai margini della grande città ma conserva una purezza d'animo disarmante. È la Roma popolare che si risveglia.",
+              "spotify_url": "https://open.spotify.com/intl-it/track/2u4pRdwTqvB0xSM3t8K2Bz?si=25716a609c2f4633",
+              "youtube_url": "https://www.youtube.com/watch?v=ZgaGPuLDBG4",
+              "note_ascolto": "Sedersi sui gradini della chiesa dei Santi Angeli Custodi ascoltando il brano e osservando la piazza scorrere."
+            },
+            "letteratura": {
+              "citazione": "In Italia nessuno resta in casa; le strade e le piazze sono sempre piene di vita.",
+              "autore": "Johann Wolfgang von Goethe",
+              "opera": "Viaggio in Italia",
+              "anno": 1817,
+              "contesto": "Goethe vedeva nelle piazze italiane il luogo dove la vita si mostra senza filtri e per Rino Gaetano Piazza Sempione rappresenta proprio questo."
+            },
+            "atmosfera": {
+              "momento": "mattino",
+              "luce": "vivida che illumina le facciate barocchette dei palazzi storici",
+              "suoni_ambiente": [
+                "ciarlare dei residenti al mercato vicino",
+                "clacson in lontananza",
+                "rumore dei tavolini dei bar che si animano"
+              ],
+              "temperatura_stimata": "18-22°C",
+              "affollamento": "moderato (vita di quartiere)",
+              "consiglio_fotografico": "Inquadrare la statua della Madonna al centro della piazza con lo sfondo del monumentale Palazzo Pubblico di Innocenzo Sabbatini.",
+              "emozione_target": "Nostalgia, appartenenza, calore popolare"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Eclettismo architettonico, con elementi di Barocchetto romano e Neomedievale",
+              "architetti": ["Gustavo Giovannoni", "Innocenzo Sabbatini"],
+              "anno_costruzione": "1920-1925",
+              "committente": "Consorzio Città Giardino Aniene",
+              "descrizione": "Progettata come monumentale ingresso alla Città Giardino Aniene, la piazza ricalca le forme delle piazze storiche italiane, creando un effetto scenografico intimo e comunitario."
+            }
+          },
+          "storia": "Piazza Sempione nasce negli anni '20 come centro civile e religioso del nuovo quartiere utopico e verde di Montesacro. Rino Gaetano ha vissuto intensamente questi spazi, frequentando i locali della zona prima del grande successo.",
+          "curiosita": "Ogni anno, intorno al 2 giugno (data della sua morte), la piazza o le aree limitrofe ospitano il Rino Gaetano Day, un grande concerto gratuito in cui fan da tutta Italia cantano a squarciagola i suoi successi.",
+          "metadata": {
+            "accessibilita": "gratuito, area pubblica",
+            "orari_standard": "24/7",
+            "servizi": ["bar", "ristoranti", "edicola", "mezzi pubblici"]
+          }
+        },
+        {
+          "numero": 2,
+          "poi_id": "dimora_di_rino",
+          "orario_consigliato": "12:45",
+          "momento_giornata": "mezzogiorno",
+          "durata_visita_min": 30,
+          "coordinate": [41.93449, 12.53079],
+          "nome": "Via Nomentana Nuova 53",
+          "descrizione_breve": "L'indirizzo romano di Rino: la casa al quinto piano dove ha composto i suoi più grandi capolavori.",
+          "indicazioni_arrivo": "Da Piazza Sempione si arriva a piedi in 10 min alla casa di Rino passando per Corso Sempione e Via Nomentana Nuova.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "15 min",
+            "distanza_km": 0.5
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "brano_completo": "Gianna",
+              "compositore": "Rino Gaetano",
+              "durata_sec": 180,
+              "tonalita": "Sol maggiore",
+              "organico": "Voce, chitarra acustica, basso elettrico, sassofono",
+              "anno_composizione": 1978,
+              "descrizione_musicale": "Ritmo incalzante, scanzonato, un pop-rock travolgente dominato da un giro di basso trascinante e un finale graffiato dal sassofono. Dietro la musica si cela una satira pungente del perbenismo e delle illusioni politiche dell'epoca.",
+              "carattere": "Ironico, travolgente, dissacrante",
+              "spotify_url": "https://open.spotify.com/intl-it/track/3LhSWvr02ZOYL5IMd3nm1t?si=ca576ac56dc6434a",
+              "youtube_url": "https://www.youtube.com/watch?v=laIH5AQqeH0",
+              "note_ascolto": "Ascoltare guardando in alto verso le finestre del palazzo per immaginare Rino sul balcone con la sua chitarra."
+            },
+            "letteratura": {
+              "citazione": "Al quinto piano di quel palazzo di Via Nomentana Nuova c’era una stanza piena di dischi, cappelli a cilindro e fogli sparsi. Lì dentro nasceva l'Italia di Rino Gaetano.",
+              "autore": "Domenico Messina",
+              "opera": "Rino Gaetano: Sotto un cielo sempre più blu",
+              "anno": 2011,
+              "contesto": "Ricordo degli amici d'infanzia sulle lunghe serate passate a casa di Rino a discutere di musica, società e politica."
+            },
+            "atmosfera": {
+              "momento": "mattino",
+              "luce": "brillante e nitida",
+              "suoni_ambiente": [
+                "traffico continuo di Via Nomentana",
+                "cinguettio proveniente dagli alberi vicino al fiume Aniene"
+              ],
+              "temperatura_stimata": "21-23°C",
+              "affollamento": "basso (marciapiede urbano)",
+              "consiglio_fotografico": "Cercare il dettaglio del civico 53 o inquadrare la prospettiva del palazzo dal lato opposto della carreggiata.",
+              "emozione_target": "Intimità, rispetto, curiosità"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Razionalismo residenziale",
+              "anno_costruzione": "1950",
+              "committente": "Privato",
+              "descrizione": "Tipico palazzo della classe media romana in espansione negli anni del boom economico, affacciato sull'arteria stradale che collega Montesacro al centro città."
+            }
+          },
+          "storia": "In questo appartamento Rino Gaetano visse con la famiglia dopo il trasferimento dalla Calabria e vi rimase per gran parte della sua vita adulta. Qui videro la luce album storici come 'Aida' e 'Mio fratello è figlio unico'.",
+          "curiosita": "Dalle finestre di questa casa, Rino poteva scorgere lo scorrere del fiume Aniene, che spesso citava come metafora di una Roma che scorreva via pigra, distratta e indifferente.",
+          "metadata": {
+            "accessibilita": "visibile solo dall'esterno (proprietà privata)",
+            "orari_standard": "24/7",
+            "servizi": ["edicola nelle vicinanze", "fermate bus sottostanti"]
+          }
+        },
+        {
+          "numero": 3,
+          "poi_id": "incrocio_incidente",
+          "orario_consigliato": "14:00",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 30,
+          "coordinate": [41.92119, 12.5177],
+          "nome": "Incrocio Via Nomentana e Viale XXI Aprile",
+          "descrizione_breve": "Il luogo del tragico destino: l'incrocio stradale in cui la vita del cantautore si spezzò nella notte del 2 giugno 1981.",
+          "indicazioni_arrivo": "Da Via Nomentana Nuova 53 si cammina per 30 min lungo Via Nomentana facendo una sosta di 15 min.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "45 min",
+            "distanza_km": 1.9
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "brano_completo": "La ballata di Renzo",
+              "compositore": "Rino Gaetano",
+              "durata_sec": 250,
+              "tonalita": "La minore",
+              "organico": "Voce, chitarra acustica, tastiere, batteria",
+              "anno_composizione": 1974,
+              "descrizione_musicale": "Un brano profetico, inciso anni prima del dramma. Una ballata folk-rock dal tono cupo ma stranamente rassegnato. Racconta la storia di un uomo di nome Renzo che muore in un incidente stradale e viene rifiutato da diversi ospedali romani per mancanza di posti. Un destino che ricalcherà drammaticamente i veri ultimi momenti di vita di Rino.",
+              "citazioni_famose": "Usato da biografi e giornalisti come incredibile e agghiacciante testo premonitore della sua fine.",
+              "carattere": "Profetico, cupo, struggente",
+              "spotify_url": "https://open.spotify.com/intl-it/track/6Uf3oRpem2yymtzohKro54?si=b27dc1c3c2614a43",
+              "youtube_url": "https://www.youtube.com/watch?v=872Yrl2wB8c",
+              "note_ascolto": "Ascoltare camminando lungo i viali alberati, riflettendo sulla fragilità e sul destino del genio musicale."
+            },
+            "letteratura": {
+              "citazione": "La notte del 2 giugno l'asfalto di Via Nomentana si prese la giovinezza e la poesia. Roma perse il suo grillo parlante, colui che sapeva far ridere pensando.",
+              "autore": "Yari Selvetella",
+              "opera": "Roma Cento Anni di Storie Musicali",
+              "anno": 2015,
+              "contesto": "Cronaca dell'impatto culturale che la morte improvvisa di Rino Gaetano ebbe sulla Capitale e sui giovani dell'epoca."
+            },
+            "cinema": {
+              "film": "Rino Gaetano - Ma il cielo è sempre più blu",
+              "regista": "Marco Turco",
+              "anno": 2007,
+              "scena": "La ricostruzione degli ultimi istanti e il successo postumo",
+              "descrizione": "La miniserie TV ricostruisce la tragica notte del 2 giugno 1981 con forte impatto visivo, permettendo al turista digitale di sovrapporre il racconto cinematografico al luogo fisico esatto dell'incidente, trasformando un drammatico evento di cronaca in un momento di profonda connessione narrativa ed emotiva."
+            },
+            "atmosfera": {
+              "momento": "primo pomeriggio",
+              "luce": "calda e zenitale che comincia a inclinarsi",
+              "suoni_ambiente": [
+                "traffico intenso",
+                "sirene in lontananza",
+                "fruscio delle foglie mosse dal vento sui viali"
+              ],
+              "temperatura_stimata": "25-28°C (caldo pieno)",
+              "affollamento": "molto alto (snodo di traffico urbano)",
+              "consiglio_fotografico": "Cercare un'inquadratura prospettica del lungo rettilineo di Via Nomentana incorniciato dagli alberi secolari.",
+              "emozione_target": "Commozione, sgomento, riflessione"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Razionalismo e Urbanistica Umbertina",
+              "architetti": ["Vari"],
+              "anno_costruzione": "Inizio XX secolo",
+              "committente": "Comune di Roma",
+              "descrizione": "Grande asse stradale caratterizzato da ampi viali alberati e imponenti palazzi residenziali."
+            }
+          },
+          "storia": "Alle 3:55 del 2 giugno 1981, di ritorno da una serata nei locali, la Volvo 343 di Rino Gaetano invase la corsia opposta schiantandosi contro un camion. Finì qui, a soli 30 anni, la parabola terrena di uno dei cantautori più originali d'Italia.",
+          "curiosita": "L'incidente di Rino suscitò enormi polemiche: proprio come nella sua 'Ballata di Renzo', il cantante fu trasportato al Policlinico Umberto I ma non c'era un reparto di traumatologia cranica disponibile, e morì dopo essere stato respinto da altri tre ospedali.",
+          "metadata": {
+            "accessibilita": "gratuito, sempre accessibile",
+            "orari_standard": "24/7",
+            "servizi": ["bar circostanti", "fermate bus e ciclabile"],
+            "warning": "Zona ad altissimo traffico automobilistico, prestare attenzione"
+          }
+        },
+        {
+          "numero": 4,
+          "poi_id": "cimitero_morte",
+          "orario_consigliato": "15:15",
+          "momento_giornata": "pomeriggio",
+          "durata_visita_min": 45,
+          "coordinate": [41.90153, 12.52029],
+          "nome": "Cimitero Monumentale del Verano",
+          "descrizione_breve": "L'ultima dimora. La tomba di Rino, meta incessante di pellegrinaggio per generazioni di fan che lo amano ancora.",
+          "indicazioni_arrivo": "Dall'incrocio Nomentana/XXI Aprile si passa per Viale XXI Aprile e Viale delle Provincie per giungere al Verano in 30 min con sosta di 15 min.",
+          "tempo_spostamento_da_tappa_precedente": {
+            "a_piedi": "45 min",
+            "distanza_km": 2.5
+          },
+          "esperienza_culturale": {
+            "musica": {
+              "brano_completo": "Ma il cielo è sempre più blu",
+              "compositore": "Rino Gaetano",
+              "durata_sec": 270,
+              "tonalita": "Do maggiore",
+              "organico": "Voce, chitarra, sintetizzatore, cori",
+              "anno_composizione": 1975,
+              "descrizione_musicale": "Un testo infinito, un catalogo di umanità varia, contraddizioni, ingiustizie e scene di vita quotidiana. La musica è un crescendo liberatorio e ipnotico. Finire il percorso qui, cantando questo brano nella mente, trasforma la tristezza in una celebrazione della vita. Perché oltre le miserie umane, il cielo resta sempre più blu. Il finale si dissolve nel silenzio dei cipressi.",
+              "carattere": "Catartico, eterno, riflessivo",
+              "citazioni_famose": "Considerato l'inno eterno e il manifesto della poetica realista ed ironica di Rino Gaetano.",
+              "spotify_url": "https://open.spotify.com/intl-it/track/1L9m2l2lhXgQ3GwmmCx3OK?si=222b4d0b8da145fd",
+              "youtube_url": "https://www.youtube.com/watch?v=rfaihaFlcSgs",
+              "note_ascolto": "Lasciare scorrere la musica nelle orecchie mentre ci si allontana dalla tomba verso l'uscita del cimitero."
+            },
+            "letteratura": {
+              "citazione": "Sulla sua lapide c'è una foto in cui sorride, con quell'aria da dandy ironico e lo sguardo di chi ha capito tutto in anticipo. Accanto, i messaggi dei ragazzi di oggi dimostrano che Rino non è mai morto davvero.",
+              "autore": "Enrico Deregibus",
+              "opera": "Dizionario del cantautorato italiano",
+              "anno": 2006,
+              "contesto": "Riflessione sull'immortalità artistica di Rino Gaetano e sul culto giovanile generazionale che circonda la sua figura."
+            },
+            "atmosfera": {
+              "momento": "primo pomeriggio",
+              "luce": "calda, filtrata dai grandi cipressi secolari",
+              "suoni_ambiente": [
+                "silenzio solenne",
+                "passi sulla ghiaia",
+                "fruscio del vento"
+              ],
+              "temperatura_stimata": "24-26°C (caldo)",
+              "affollamento": "basso (area meno turistica)",
+              "vista_panoramica": "I viali monumentali del cimitero degli artisti",
+              "consiglio_fotografico": "Catturare i giochi di luce e ombre creati dai cipressi sui monumenti marmorei. Rispettare rigorosamente il luogo.",
+              "emozione_target": "Nostalgia, pace, contemplazione"
+            },
+            "arte_visiva": {
+              "stile_architettonico": "Neoclassico e Monumentale",
+              "architetti": ["Virginio Vespignani"],
+              "anno_costruzione": "1807-1812",
+              "committente": "Regno d'Italia e Papa Pio IX",
+              "descrizione": "Vero e proprio museo all'aperto, il Verano ospita cappelle gentilizie, sculture barocche e neoclassiche di inestimabile valore storico e artistico."
+            }
+          },
+          "storia": "Istituito durante il regime napoleonico, il Verano è il cimitero storico di Roma. Rino Gaetano riposa nel riquadro 119, loculo 9, fila 2. La sua tomba è facilmente riconoscibile per la quantità di fiori freschi, sigarette, plettri e lettere lasciati dai fan.",
+          "curiosita": "Nel 2013 la sorella Anna ha denunciato il furto del prezioso ukulele di bronzo che decorava la tomba, scatenando l'indignazione di tutta la comunità dei fan. Lo strumento è stato poi ricreato e riposizionato a furor di popolo.",
+          "connessione_personaggio": "Ideale chiusura del cerchio: dal frastuono della Nomentana alla pace assoluta del Verano, dove le canzoni di Rino continuano a risuonare nel cuore dei visitatori.",
+          "metadata": {
+            "accessibilita": "ingresso gratuito",
+            "orari_standard": "aperto tutti i giorni 07:30-18:00",
+            "servizi": ["mappe all'ingresso", "servizi igienici", "chioschi di fiori all'esterno"]
+          }
+        }
+      ],
+      "mappa_percorso": {
+        "polyline_encoded": "esempio_encoded_string",
+        "colore_percorso": "#3498db",
+        "stile_linea": "solid"
+      },
+      "consigli_pratici": [
+        "Portare bottiglia d'acqua riutilizzabile",
+        "Scarpe comode obbligatorie (4.9 km a piedi)",
+        "Cappello e crema solare per mezzogiorno",
+        "Cuffie di buona qualità per ascoltare la musica",
+        "Chiedere la mappa all'ingresso del Verano per orientarvi verso il riquadro 119",
+        "Considerare pausa pranzo a Piazza Sempione",
+        "Se volete, portate un fiore o un pensiero scritto da lasciare a Rino"
+      ],
+      "migliore_periodo_anno": "Marzo-Maggio o Settembre-Ottobre (luce migliore, temperature miti)",
+      "sconsigliato": ["Piena estate (troppo caldo a mezzogiorno)", "Gennaio-Febbraio (temperature rigide per le soste tutte all'aperto)"],
+      "cosa_portare": [
+        "Smartphone con app mappe",
+        "Cuffie/auricolari",
+        "Bottiglia acqua",
+        "Cappello",
+        "Crema solare",
+        "Snack energetici",
+        "Powerbank"
+      ]
+    }
+  ]
+}
