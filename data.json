@@ -1,7 +1,7 @@
 ﻿{
   "itinerari": [
     {
-      "poi_id": "rino_gaetano_cantanti",
+      "id": "rino_gaetano_cantanti",
       "nome": "Rino Gaetano: la Mappa del Cielo Blu",
       "sottotitolo": "Un viaggio tra ironia, ballate e quartieri popolari",
       "personaggio": {
