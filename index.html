@@ -891,7 +891,7 @@
                     const atmDiv = document.createElement('div');
                     atmDiv.className = 'esperienza-section';
                     atmDiv.innerHTML = `
-                        <h3>🌤️ Atmosfera del Luogo</h3>
+                        <h3>⛅ Atmosfera del Luogo</h3>
                         <div class="atmosfera-grid">
                             <div class="atmosfera-item">
                                 <div class="icon">💡</div>
@@ -899,7 +899,7 @@
                                 <div class="value">${exp.atmosfera.luce || 'N/A'}</div>
                             </div>
                             <div class="atmosfera-item">
-                                <div class="icon">🌡️</div>
+                                <div class="icon">°C</div>
                                 <div class="label">Temperatura</div>
                                 <div class="value">${exp.atmosfera.temperatura_stimata || 'N/A'}</div>
                             </div>
@@ -914,7 +914,7 @@
                                 <div class="value">${exp.atmosfera.emozione_target || 'N/A'}</div>
                             </div>
                         </div>
-                        ${exp.atmosfera.consiglio_fotografico ? `<p style="margin-top: 15px;"><strong>📸 Fotografia:</strong> ${exp.atmosfera.consiglio_fotografico}</p>` : ''}
+                        ${exp.atmosfera.consiglio_fotografico ? `<p style="margin-top: 15px;"><strong>📷 Fotografia:</strong> ${exp.atmosfera.consiglio_fotografico}</p>` : ''}
                     `;
                     container.appendChild(atmDiv);
                 }
