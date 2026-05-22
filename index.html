@@ -885,6 +885,17 @@
                     `;
                     container.appendChild(litDiv);
                 }
+
+                // Immagine del Personaggio (Rino Gaetano)
+        if (itinerario.personaggio && itinerario.personaggio.immagine) {
+            const imgDiv = document.createElement('div');
+            imgDiv.style.marginBottom = '20px';
+            imgDiv.style.textAlign = 'center';
+            imgDiv.innerHTML = `
+                <img src="${itinerario.personaggio.immagine}" alt="${itinerario.personaggio.nome}" style="width:100%; max-height:280px; object-fit:cover; border-radius:8px; box-shadow: 0 4px 8px rgba(0,0,0,0.15);">
+            `;
+            container.appendChild(imgDiv);
+        }
                 
                 // Atmosfera
                 if (exp.atmosfera) {
